@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:cactus"
+  },
+  "result": "fruits:cactus_powder",
+  "count": 1
+}
